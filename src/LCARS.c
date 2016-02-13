@@ -94,7 +94,7 @@ static void set_container_image(BitmapLayer *bmp_layer, GBitmap *bitmap, GPoint 
 	bitmap_layer_set_bitmap(bmp_layer, bitmap);
     
 	layer = bitmap_layer_get_layer(bmp_layer);
-	frame = bitmap->bounds;
+	frame = gbitmap_get_bounds(bitmap);
     frame.origin = origin;
     layer_set_frame(layer, frame);
 }
