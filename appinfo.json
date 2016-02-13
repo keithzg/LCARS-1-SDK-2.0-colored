@@ -1,164 +1,172 @@
 {
-  "uuid": "c02b174b-f04b-47fc-a284-2c5e304497a8",
-  "shortName": "LCARS v2",
-  "longName": "LCARS v2",
-  "companyName": "Slayer1551 & Jnm",
-  "versionCode": 3,
-  "versionLabel": "3.0.0",
-  "watchapp": {
-    "watchface": true
-  },
-  "appKeys": {
-	  "TZOffset": 0
-  },
-  "resources": {
-    "media": [
-      {
-        "type": "png",
-        "name": "IMAGE_BACKGROUND",
-        "file": "images/background.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_0",
-        "file": "images/num_0.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_1",
-        "file": "images/num_1.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_2",
-        "file": "images/num_2.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_3",
-        "file": "images/num_3.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_4",
-        "file": "images/num_4.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_5",
-        "file": "images/num_5.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_6",
-        "file": "images/num_6.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_7",
-        "file": "images/num_7.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_8",
-        "file": "images/num_8.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_NUM_9",
-        "file": "images/num_9.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_SUN",
-        "file": "images/day_sun.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_MON",
-        "file": "images/day_mon.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_TUE",
-        "file": "images/day_tue.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_WED",
-        "file": "images/day_wed.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_THU",
-        "file": "images/day_thu.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_FRI",
-        "file": "images/day_fri.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DAY_NAME_SAT",
-        "file": "images/day_sat.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_0",
-        "file": "images/datenum_0.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_1",
-        "file": "images/datenum_1.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_2",
-        "file": "images/datenum_2.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_3",
-        "file": "images/datenum_3.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_4",
-        "file": "images/datenum_4.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_5",
-        "file": "images/datenum_5.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_6",
-        "file": "images/datenum_6.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_7",
-        "file": "images/datenum_7.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_8",
-        "file": "images/datenum_8.png"
-      },
-      {
-        "type": "png",
-        "name": "IMAGE_DATENUM_9",
-        "file": "images/datenum_9.png"
-      },
-      {
-        "menuIcon": true,
-        "type": "png",
-        "name": "IMAGE_MENU_ICON",
-        "file": "images/menu_icon_lcars.png"
-      }
-    ]
-  }
+    "appKeys": {
+        "TZOffset": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "KeithZG & Slayer1551 & Jnm",
+    "enableMultiJS": false,
+    "longName": "LCARS v3",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/num_9.png",
+                "name": "IMAGE_NUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/num_8.png",
+                "name": "IMAGE_NUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/num_7.png",
+                "name": "IMAGE_NUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/num_6.png",
+                "name": "IMAGE_NUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/num_5.png",
+                "name": "IMAGE_NUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/num_4.png",
+                "name": "IMAGE_NUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/num_3.png",
+                "name": "IMAGE_NUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/num_2.png",
+                "name": "IMAGE_NUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/num_1.png",
+                "name": "IMAGE_NUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/num_0.png",
+                "name": "IMAGE_NUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/menu_icon_lcars.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/day_wed.png",
+                "name": "IMAGE_DAY_NAME_WED",
+                "type": "png"
+            },
+            {
+                "file": "images/day_tue.png",
+                "name": "IMAGE_DAY_NAME_TUE",
+                "type": "png"
+            },
+            {
+                "file": "images/day_thu.png",
+                "name": "IMAGE_DAY_NAME_THU",
+                "type": "png"
+            },
+            {
+                "file": "images/day_sun.png",
+                "name": "IMAGE_DAY_NAME_SUN",
+                "type": "png"
+            },
+            {
+                "file": "images/day_sat.png",
+                "name": "IMAGE_DAY_NAME_SAT",
+                "type": "png"
+            },
+            {
+                "file": "images/day_mon.png",
+                "name": "IMAGE_DAY_NAME_MON",
+                "type": "png"
+            },
+            {
+                "file": "images/day_fri.png",
+                "name": "IMAGE_DAY_NAME_FRI",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_9.png",
+                "name": "IMAGE_DATENUM_9",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_8.png",
+                "name": "IMAGE_DATENUM_8",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_7.png",
+                "name": "IMAGE_DATENUM_7",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_6.png",
+                "name": "IMAGE_DATENUM_6",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_5.png",
+                "name": "IMAGE_DATENUM_5",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_4.png",
+                "name": "IMAGE_DATENUM_4",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_3.png",
+                "name": "IMAGE_DATENUM_3",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_2.png",
+                "name": "IMAGE_DATENUM_2",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_1.png",
+                "name": "IMAGE_DATENUM_1",
+                "type": "png"
+            },
+            {
+                "file": "images/datenum_0.png",
+                "name": "IMAGE_DATENUM_0",
+                "type": "png"
+            },
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "LCARS v3",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "ad4f348b-c78a-42cc-a2ff-67468b178b98",
+    "versionLabel": "3.0",
+    "watchapp": {
+        "watchface": true
+    }
 }
