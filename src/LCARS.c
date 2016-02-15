@@ -168,7 +168,7 @@ void display_layer_update_callback(Layer *me, GContext* ctx) {
 	struct tm *t = localtime(&unix_time);
     
     unsigned short display_hour = get_display_hour(t->tm_hour);
-    graphics_context_set_fill_color(ctx, GColorWhite);
+    graphics_context_set_fill_color(ctx, GColorChromeYellow);
     
     
     for (cell_column_index = 0; cell_column_index < display_hour/10; cell_column_index++) {
